@@ -13,23 +13,23 @@ const carouselImages = [
 ];
 
 const products = [
-  { id: 1, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-1.jpeg" },
-  { id: 2, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-2.jpeg" },
-  { id: 3, name: "Vestido Amarillo", price: "$22.00", img: "/assets/images/product-3.jpeg" },
-  { id: 4, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-4.jpeg" },
-  { id: 5, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-5.jpeg" },
-  { id: 6, name: "Vestido Amarillo", price: "$22.00", img: "/assets/images/product-6.jpeg" },
-  { id: 7, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-7.jpeg" },
-  { id: 8, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-8.jpeg" },
-  { id: 9, name: "Vestido Amarillo", price: "$22.00", img: "/assets/images/product-9.jpeg" },
-  { id: 10, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-10.jpeg" },
-  { id: 11, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-11.jpeg" },
-  { id: 12, name: "Vestido Amarillo", price: "$22.00", img: "/assets/images/product-12.jpeg" },
-  { id: 13, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-13.jpeg" },
-  { id: 14, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-14.jpeg" },
-  { id: 15, name: "Vestido Amarillo", price: "$22.00", img: "/assets/images/product-15.jpeg" },
-  { id: 16, name: "Camiseta Rosa", price: "$12.99", img: "/assets/images/product-16.jpeg" },
-  { id: 17, name: "Pantalón Azul", price: "$18.50", img: "/assets/images/product-17.jpeg" }
+  { id: 1, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-1.jpeg" },
+  { id: 2, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-2.jpeg" },
+  { id: 3, name: "Vestido Amarillo", price: "$22.00", img: "/Ecommerce-Vivawear/assets/images/product-3.jpeg" },
+  { id: 4, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-4.jpeg" },
+  { id: 5, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-5.jpeg" },
+  { id: 6, name: "Vestido Amarillo", price: "$22.00", img: "/Ecommerce-Vivawear/assets/images/product-6.jpeg" },
+  { id: 7, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-7.jpeg" },
+  { id: 8, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-8.jpeg" },
+  { id: 9, name: "Vestido Amarillo", price: "$22.00", img: "/Ecommerce-Vivawear/assets/images/product-9.jpeg" },
+  { id: 10, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-10.jpeg" },
+  { id: 11, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-11.jpeg" },
+  { id: 12, name: "Vestido Amarillo", price: "$22.00", img: "/Ecommerce-Vivawear/assets/images/product-12.jpeg" },
+  { id: 13, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-13.jpeg" },
+  { id: 14, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-14.jpeg" },
+  { id: 15, name: "Vestido Amarillo", price: "$22.00", img: "/Ecommerce-Vivawear/assets/images/product-15.jpeg" },
+  { id: 16, name: "Camiseta Rosa", price: "$12.99", img: "/Ecommerce-Vivawear/assets/images/product-16.jpeg" },
+  { id: 17, name: "Pantalón Azul", price: "$18.50", img: "/Ecommerce-Vivawear/assets/images/product-17.jpeg" }
 ];
 
 const Home = () => {
