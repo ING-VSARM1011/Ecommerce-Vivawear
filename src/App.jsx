@@ -12,7 +12,7 @@ function App() {
       <TopBanner />
       <Navbar />
       <Routes>
-        <Route path="/Ecommerce-Vivawear/" element={<Home />} />
+        <Route path="/Ecommerce-Vivawear" element={<Home />} />
       </Routes>
       <BenefitsBar />
       <Footer />
