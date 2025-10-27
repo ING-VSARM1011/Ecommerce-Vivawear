@@ -8,7 +8,7 @@ import BenefitsBar from "./components/BenefitsBar";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Ecommerce-Vivawear">
       <TopBanner />
       <Navbar />
       <Routes>
