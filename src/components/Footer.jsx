@@ -47,7 +47,7 @@ const socialLinks = [
 
 const Footer = () => {
   return (
-    <footer className="bg-[#7ABF62] text-white py-8 sm:py-10 px-5 sm:px-8 mt-0">
+    <footer className="bg-[#7EC5B7] text-white py-8 sm:py-10 px-5 sm:px-8 mt-0">
       {/* Contenedor principal */}
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-center sm:text-left">
         {/* Secciones de enlaces */}

@@ -5,7 +5,7 @@ import { FaShoppingCart, FaBars, FaTimes } from "react-icons/fa";
 // === TopBanner integrado ===
 const TopBanner = () => {
   return (
-    <div className="w-full bg-[#FFA255] text-white py-2 overflow-hidden relative">
+    <div className="w-full bg-[#FE9494] text-white py-2 overflow-hidden relative">
       <div className="animate-marquee whitespace-nowrap flex items-center">
         <span className="mx-6 text-xs sm:text-sm font-medium">
           🎉 ¡Envío gratis por compras mayores a $150.000! 🎉
