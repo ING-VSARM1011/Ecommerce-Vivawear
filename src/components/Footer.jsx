@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebookF, FaInstagram, FaTiktok } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTiktok, FaWhatsapp } from "react-icons/fa";
 
 const sections = [
   {
@@ -42,6 +42,12 @@ const socialLinks = [
     href: "#",
     hoverClass: "hover:text-[#C4E3CB]", // menta clara
     label: "TikTok",
+  },
+  {
+    icon: <FaWhatsapp size={18} />,
+    href: "https://wa.me/573209516188?text=Hola%20quiero%20más%20información",
+    hoverClass: "hover:text-[#25D366]", // verde WhatsApp
+    label: "WhatsApp",
   },
 ];
 
